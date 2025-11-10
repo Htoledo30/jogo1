@@ -1,0 +1,19 @@
+2025-11-09 20:59:16 - [32mINFO[0m - [rpg:91] - ============================================================
+2025-11-09 20:59:16 - [32mINFO[0m - [rpg:92] - Game logger initialized
+2025-11-09 20:59:16 - [32mINFO[0m - [rpg:93] - Log file: logs\game_20251109_205916.log
+2025-11-09 20:59:16 - [32mINFO[0m - [rpg:94] - ============================================================
+2025-11-09 20:59:16 - [32mINFO[0m - [rpg.src.resource_manager:43] - Resource Manager initialized
+2025-11-09 20:59:16 - [32mINFO[0m - [rpg.src.resource_manager:262] - Resource manager module loaded
+2025-11-09 20:59:16 - DEBUG    - [rpg.src.resource_manager:79] - Created and cached font: default size 18
+2025-11-09 20:59:16 - DEBUG    - [rpg.src.resource_manager:79] - Created and cached font: default size 16
+2025-11-09 20:59:16 - DEBUG    - [rpg.src.resource_manager:79] - Created and cached font: default size 20
+2025-11-09 20:59:16 - DEBUG    - [rpg.src.resource_manager:79] - Created and cached font: default size 14
+2025-11-09 20:59:16 - DEBUG    - [rpg.src.resource_manager:79] - Created and cached font: default size 24
+2025-11-09 20:59:16 - [32mINFO[0m - [rpg.main:72] - Fonts initialized via Resource Manager
+2025-11-09 20:59:17 - DEBUG    - [rpg.src.resource_manager:79] - Created and cached font: default size 22
+2025-11-09 20:59:17 - DEBUG    - [rpg.src.resource_manager:79] - Created and cached font: default size 24
+2025-11-09 20:59:17 - DEBUG    - [rpg.src.resource_manager:79] - Created and cached font: default size 18
+2025-11-09 21:01:17 - DEBUG    - [rpg.src.resource_manager:79] - Created and cached font: default size 36
+2025-11-09 21:01:17 - DEBUG    - [rpg.src.resource_manager:79] - Created and cached font: default size 30
+2025-11-09 21:01:25 - DEBUG    - [rpg.src.resource_manager:79] - Created and cached font: default size 64
+2025-11-09 21:01:25 - DEBUG    - [rpg.src.resource_manager:79] - Created and cached font: default size 28
